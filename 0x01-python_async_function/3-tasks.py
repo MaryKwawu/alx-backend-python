@@ -1,4 +1,4 @@
-`#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Function 'task_wait_random' which takes an integer max_delay
 and returns a asyncio.Task. This uses a regular function syntax 
 instead of an async syntax
